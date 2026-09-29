@@ -1,4 +1,4 @@
-import mysql.connector
+
 from mysql.connector import Error, IntegrityError
 from datetime import datetime, date
 
