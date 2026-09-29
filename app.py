@@ -1,5 +1,5 @@
 
-from mysql.connector import Error, IntegrityError
+
 from datetime import datetime, date
 
 import pandas as pd
